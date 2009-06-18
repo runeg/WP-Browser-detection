@@ -64,11 +64,5 @@ $data .= $nettleser;
 
 return $data;
 }
-    
-function brukerdata(){
-
-$leser = nettleser($data);
-echo $leser;
-}
 
 ?>
