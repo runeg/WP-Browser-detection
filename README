@@ -1,0 +1,17 @@
+Hvordan bruke dette innstikket
+===============================
+
+Det er ikke laget en admin meny, da dette egentlig ikke trenger en admin meny...
+Som vanlig laster du opp innstikket til /wp-content/plugins og går til admin siden din og
+aktiverer innstikket.
+
+Du kan bruke innstikket på følgende måte;
+
+Bruk denne som en del av din(e) egne innstikk. For å finne ut hvilken nettleser dine besøkende
+bruker, lar du en variabel få ressultatet fra nettleser rutinen; $leser = nettleser($data); Med 
+denne inneholder variabelen nå ID på nettleseren. Du kan nå jobbe videre med f.eks å laste forskjellige
+stilsett (CSS) avhengig av hvilken nettleser som er på besøk.
+
+================================
+
+Lykke til! Bruk http://norskwpu.net til spørsmål
